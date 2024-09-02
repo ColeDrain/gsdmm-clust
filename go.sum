@@ -2,3 +2,5 @@ github.com/ColeDrain/randomkit v0.0.0-20240902101715-ae981c2956d9 h1:QFKkiNBq+9W
 github.com/ColeDrain/randomkit v0.0.0-20240902101715-ae981c2956d9/go.mod h1:mFcHbMyhgLDeUzTDhnWjZxkgRdFPrTLUXCNMg94WYeo=
 github.com/pkg/errors v0.8.0 h1:WdK/asTD0HN+q6hsWO3/vpuAkAr+tw6aNJNDFFf0+qw=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/xtgo/set v1.0.0 h1:6BCNBRv3ORNDQ7fyoJXRv+tstJz3m1JVFQErfeZz2pY=
+github.com/xtgo/set v1.0.0/go.mod h1:d3NHzGzSa0NmB2NhFyECA+QdRp29oEn2xbT+TpeFoM8=
