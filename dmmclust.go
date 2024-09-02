@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/pkg/errors"
-	randomkit "gorgonia.org/randomkit"
+	randomkit "github.com/ColeDrain/randomkit"
 )
 
 // ScoringFn is any function that can take a document and return the probabilities of it existing in those clusters
